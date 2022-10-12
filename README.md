@@ -1,6 +1,6 @@
 # ANSIBLE REFACTORING AND STATIC ASSIGNMENTS (IMPORTS AND ROLES)
 
-Project 12 builds on what we learnt in project 11. THe code for Project 11, Project 12, and Project 13, are all combined in project 11 for a more elaborate breakdown of the concept. Here we learn about Ansibles feature to help better organise our playbook and make them reuseable.
+Project 12 builds on what we learnt in project 11.  Here we learn about Ansibles feature to help better organise our playbook and make them reuseable.
 
 
 ### ROLES
