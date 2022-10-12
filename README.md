@@ -21,8 +21,7 @@ To download a publicly available role run the command below:
 Imports helps you add playbooks into master playbook file. This feature helps in organisation of your. You get to keep related playbooks in one file and import it into a master playbook when needed.
 
 
-These are the screenshots of the project. [Refer to the code to Learn more](https://github.com/obusorezekiel/ansible-config-mgt):
-
+These are the screenshots of the project.
 
 
 ![Screenshot from 2022-10-11 19-10-28](https://user-images.githubusercontent.com/23356682/195304268-eb9a0c15-6925-40f5-841a-5e25ee1887fa.png)
